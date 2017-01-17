@@ -19,8 +19,8 @@ Instead of having everything on one server we were able to use microservices. Th
 
 In the real-time chat, users can either join a general channel or a channel specific to their goal. As previously mentioned, multiple channel server proved to be especially challenging, but we persevered and gained a lot of experience with JavaScript along the way - that is why we are proud of it.
 
-What We Learned
+##What We Learned
 We gained experience in and learned various programming skills. Among these are git, JavaScript, online transactions, proper code structure, node.js, and redux.js. Also, this is the first time we were in a group with each other, and most of us did not know each other. Thus, we had a great time getting to know each other and working as a team.
 
-What's Next for DMS
+##What's Next for DMS
 We believe a lot of potential lies in this idea. We want to expand and improve our chat room, building it into even more of a social network, in addition to connecting it to social media apps such as Facebook and Instagram. Although it focuses on short-term goals at the moment, it can grow to incorporate long-term goals, bigger goals such as studying for the SAT in 6 months or losing 20 pounds in a year, with higher donation stakes. Lastly, it can grow to utilize hardware for users to physically and quantitatively track certain goals, such as motion sensors that add to the accuracy of fitness goals.
